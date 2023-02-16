@@ -1,1 +1,2 @@
 # CogoLabs
+Cogo Labs contacts consumers via email with promotional offers. While consumers have opted in to receiving email offers, some tend to ignore them. Because email providers like Gmail and Yahoo! use email open rates as an input to their spam detection filters, when Cogo Labs contacts unresponsive customers (those unlikely to open the emails) it faces the potential cost of having its future messages classified as spam. Therefore, it is crucial to learn which customers are unlikely to open emails and avoid contacting them in the first place. 
